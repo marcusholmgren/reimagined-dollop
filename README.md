@@ -1,8 +1,10 @@
 # Rust web frameworks
 
-## What
+This repository contains examples of web servers written in Rust using different web frameworks.
 
-From the LinkedIn course by Akhil Sharma.
+From the LinkedIn course by Akhil Sharma, Founder of Armur A.I
+
+To run any of the servers, you need to have Rust installed. You can install Rust by following the instructions on the [official website](https://www.rust-lang.org/tools/install).
 
 ## Structure
 
